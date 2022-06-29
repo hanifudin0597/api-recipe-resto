@@ -79,7 +79,7 @@ npm install
 - <a href="#setup-env-example">Setup .env</a>
 - Starting application
 ```
-npm run serve
+npm run start
 ```
 
 ### Setup .env example
