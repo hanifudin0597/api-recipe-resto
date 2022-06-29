@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This api is for my telegram clone application, one of which is to handle realtime chat, offline/online user status, realtime delete chat, update user profile, and others.
+This api is for food recipe client application. Some of the features in this application are auth, create recipes, edit recipes, delete recipes, list recipes, create comments, list comments, and delete comments
 
 ### Built With
 
