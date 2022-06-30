@@ -98,10 +98,7 @@ JWT_SECRET=
 
 ## Rest Api
 
-You can view my Postman collection [here](https://www.postman.com/crimson-meadow-842892/workspace/Telegram-Clone~eea3df8d-1aca-4df2-920b-d8a9d5e1e0d6/collection/10655215-e9feb563-0dd8-4675-b396-eece73f7525e)
-</br>
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/10655215-e9feb563-0dd8-4675-b396-eece73f7525e?action=collection%2Ffork&collection-url=entityId%3D10655215-e9feb563-0dd8-4675-b396-eece73f7525e%26entityType%3Dcollection%26workspaceId%3Deea3df8d-1aca-4df2-920b-d8a9d5e1e0d6)
-
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19742227-0d42ff61-c921-494a-8cb3-15a54ae5a0f2?action=collection%2Ffork&collection-url=entityId%3D19742227-0d42ff61-c921-494a-8cb3-15a54ae5a0f2%26entityType%3Dcollection%26workspaceId%3D0f7fcaf2-5cc9-4664-9c44-dd39e87c9164)
 <!-- CONTRIBUTING -->
 ## Contributing
 
