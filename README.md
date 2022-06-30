@@ -98,6 +98,8 @@ JWT_SECRET=
 
 ## Rest Api
 
+You can view my Postman collection [here](https://www.postman.com/hanif0597/workspace/food-recipe/collection/19742227-0d42ff61-c921-494a-8cb3-15a54ae5a0f2?ctx=documentation)
+</br>
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19742227-0d42ff61-c921-494a-8cb3-15a54ae5a0f2?action=collection%2Ffork&collection-url=entityId%3D19742227-0d42ff61-c921-494a-8cb3-15a54ae5a0f2%26entityType%3Dcollection%26workspaceId%3D0f7fcaf2-5cc9-4664-9c44-dd39e87c9164)
 <!-- CONTRIBUTING -->
 ## Contributing
